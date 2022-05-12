@@ -18,3 +18,8 @@ This menu can be used to
         11. to mount the logical volume permamntly
         12. to set up web configuration 
         0. Exit
+💻 Currently Supported Platforms :-
+RedHat Family -
+RedHat
+CentOS
+Amazon Linux
