@@ -5,12 +5,12 @@
 
 This menu can be used to
 
-        . Help [Steps for creating LVM ]
-        . Check how many storages is attached"
-        . Create Physical Volume (PV)
-        . Get Physical Volume details
-        . Create Volume Group (VG)
-        . Get Volume Group details
+        - Help [Steps for creating LVM ]
+        - Check how many storages is attached"
+        - Create Physical Volume (PV)
+        - Get Physical Volume details
+        - Create Volume Group (VG)
+        - Get Volume Group details
         . Create Logical Volume(LV)
         . Format the Logical Volume(LV)
         . Get Logical Volume details
