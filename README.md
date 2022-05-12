@@ -20,6 +20,6 @@ This menu can be used to
         
 💻 Currently Supported Platforms :-
   RedHat Family -
-    RedHat
-    CentOS
+    RedHat,
+    CentOS,
     Amazon Linux
