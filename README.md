@@ -19,7 +19,7 @@ This menu can be used to
         12. to set up web configuration 
         0. Exit
 💻 Currently Supported Platforms :-
-RedHat Family -
-RedHat
-CentOS
-Amazon Linux
+  RedHat Family -
+    RedHat
+    CentOS
+    Amazon Linux
