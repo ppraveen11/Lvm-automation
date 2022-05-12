@@ -5,7 +5,7 @@
 
 This menu can be used to
 
-        - Help [Steps for creating LVM ]
+   - Help [Steps for creating LVM ]
         - Check how many storages is attached"
         - Create Physical Volume (PV)
         - Get Physical Volume details
