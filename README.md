@@ -24,7 +24,7 @@ This menu can be used to
     CentOS,
     Amazon Linux
     
-              **python3 automatic.py**
+              ****python3 automatic.py****
     
     
 
