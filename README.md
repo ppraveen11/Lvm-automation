@@ -57,12 +57,12 @@ https://user-images.githubusercontent.com/56449458/168205139-2e08c903-5b1f-4aba-
 https://user-images.githubusercontent.com/56449458/168205337-f242ea8d-3dd9-45c9-89b7-074ade5ab8e3.mp4
 
 
-#  press 7: **Create Logical Volume(LV)**
+#  **press 7: Create Logical Volume(LV)**
 
 https://user-images.githubusercontent.com/56449458/168205375-69c1fad4-227f-4c6e-bb2c-be484d54e7a8.mp4
 
 
-#  press 8: ** Get Logical Volume details**
+#  **press 8:  Get Logical Volume details**
 
 https://user-images.githubusercontent.com/56449458/168205478-ad50eb0b-6a45-474c-b6cf-0049c7ac61d0.mp4
 
