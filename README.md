@@ -9,7 +9,7 @@
 ###  **To perform Lvm on perticular hardisk by below steps**
 
 - we have to create first physical volume(pv) from our hard disk
-        - pvcreate /dev/sdc 
+                                   . pvcreate /dev/sdc 
 
 - first We need to create PV, because VG(volume group) will get space from pv.
 
