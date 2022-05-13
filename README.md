@@ -3,6 +3,17 @@
 ) 
 
 
+- lvm is advance Version of Normal partion. In Normal There was a limit, that if you Create a partion of 10GB then you cannot able to increase that. 
+- whereas in Lvm, the storage comes from different volumes and you create a partion of 10 GB and if you want to put the data of 12 G8 then the Partitions  space dynamically increase
+
+
+
+
+
+
+
+
+
 This menu can be used to
 
    - Help [Steps for creating LVM ]
