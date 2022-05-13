@@ -31,11 +31,11 @@ This menu can be used to
 https://user-images.githubusercontent.com/56449458/168144728-ddb66077-f560-4a5a-9fb0-d9b7862e0f8f.mp4
 
 
-
+#  **press 2:  **to check how many storages you have attached****
 
 https://user-images.githubusercontent.com/56449458/168198393-24bf225f-1db1-446e-9c78-07d025a5aae0.mp4
 
-
+#  **press 3 **reate Physical Volume (PV)****
 
 
 https://user-images.githubusercontent.com/56449458/168198422-2755e9c4-8fb0-44ec-9b74-0b44320dca65.mp4
