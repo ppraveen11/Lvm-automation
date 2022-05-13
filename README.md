@@ -9,9 +9,14 @@
 ###  **To perform Lvm on perticular hardisk by below steps**
 
 - we have to create first physical volume(pv) from our hard disk
-                                   . pvcreate /dev/sdc 
+                                 
+                                 pvcreate /dev/sdc 
+- conform of pv creation                                 
+                               
+                               pvdisplay /dev/sdc
 
 - first We need to create PV, because VG(volume group) will get space from pv.
+
 
 
 
@@ -41,7 +46,7 @@ This menu can be used to
     CentOS,
     Amazon Linux
     
-     # python3 automatic.py
+      python3 automatic.py
     
 # **press 1 to get help and  [Steps for creating LVM ]**
 
