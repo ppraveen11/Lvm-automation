@@ -26,7 +26,7 @@ This menu can be used to
     
       python3 automatic.py
     
- **press 1 to get help and  [Steps for creating LVM ]**
+# **press 1 to get help and  [Steps for creating LVM ]**
 
 https://user-images.githubusercontent.com/56449458/168144728-ddb66077-f560-4a5a-9fb0-d9b7862e0f8f.mp4
 
