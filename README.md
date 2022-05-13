@@ -18,6 +18,22 @@
 - first We need to create PV, because VG(volume group) will get space from pv.
 
 
+- Now we need to create a volume group 
+
+                     vgcreate vg1  /dev/sdc 
+      
+      
+- In physical volumes you can only able to create. three types of partitions ie primary, extendend and Logical partition. 
+- Where as in Volume groups (vg) you can directly create the lvm partition as you  No need to create Primary, extended and logical partitions inside volume group. 
+
+-  Creating partition from Volumegroup vg1 .
+
+       lvcreate  --size 50G  --name mylv vg1       
+
+to display logical volume 
+ 
+       lvdisplay  vg1/mylv 
+
 
 
 
